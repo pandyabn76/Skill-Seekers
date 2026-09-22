@@ -1,0 +1,6 @@
+{
+  "name": "Skill Seekers Config API",
+  "description": "API and explorer for discovering, inspecting, and downloading Skill Seekers configuration files",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
